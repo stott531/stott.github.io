@@ -1,6 +1,6 @@
 
-| [Click me](http://www.google.com){: .btn} | [Click me 2](http://www.google.com){: .btn} |   |   |   |
-|-------------------------------------------|---------------------------------------------|---|---|---|
+ [Click me](http://www.google.com){: .btn}  [Click me 2](http://www.google.com){: .btn}
+
 
 
 ## Welcome to GitHub Pages
