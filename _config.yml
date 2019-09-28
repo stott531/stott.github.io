@@ -1,16 +1,11 @@
-title: Stephen Ott
-author: Stephen Ott
-email: stephenott531@gmail.com
-
-theme: jekyll-theme-hacker
-
-plugins:
-  - jekyll-relative-links
-
-relative_links:
-  - enabled: true
-  - collections: true
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
-include:
-  - index.md
-  - contact.md
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
