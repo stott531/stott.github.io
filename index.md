@@ -1,9 +1,9 @@
 
- [Click me](http://www.google.com){: .btn}  [Click me 2](http://www.google.com){: .btn}
+ [About Me](https://stott531.github.io/contact.md){: .btn}  [Click me 2](http://www.google.com){: .btn}
 
 
 
-## Welcome to GitHub Pages
+## Welcome To My Page
 
 You can use the [editor on GitHub](https://github.com/stott531/stott.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
