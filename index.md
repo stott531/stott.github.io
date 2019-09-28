@@ -4,20 +4,20 @@
 
 ### Personal Projects 
 
-[BEETS](/sample_page)
+[BEETS](/pages/BEETS.md)
 <img src="images/BEETS_demo.png?raw=true"/>
 
 ---
-[Hexagonal Minesweeper](/pdf/sample_presentation.pdf)
+[Hexagonal Minesweeper](/pages/hex_minesweeper)
 <img src="images/hex_minesweeper_demo.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mandelbrot Set Generator](/pages/mandelbrot.md)
+<img src="images/mandelbrot_demo?raw=true"/>
 
 ---
 
-### Category Name 2
+### Skills
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
