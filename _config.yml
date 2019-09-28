@@ -3,3 +3,14 @@ author: Stephen Ott
 email: stephenott531@gmail.com
 
 theme: jekyll-theme-hacker
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  - enabled: true
+  - collections: true
+  
+include:
+  - index.md
+  - contact.md
