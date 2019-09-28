@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Personal Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[BEETS](/sample_page)
+<img src="images/BEETS_demo.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hexagonal Minesweeper](/pdf/sample_presentation.pdf)
+<img src="images/hex_minesweeper_demo.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
