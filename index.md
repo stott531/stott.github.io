@@ -1,5 +1,5 @@
 
- [About Me](https://stott531.github.io/contact.md){: .btn}  [Click me 2](http://www.google.com){: .btn}
+ [About Me](contact.md){: .btn}  [Click me 2](http://www.google.com){: .btn}
 
 
 
