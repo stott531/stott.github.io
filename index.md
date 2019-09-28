@@ -1,5 +1,5 @@
 
- [About Me](contact.html){: .btn}  [Click me 2](http://www.google.com){: .btn}
+ [Contact Me](contact.html){: .btn}  [Click me 2](http://www.google.com){: .btn}
 
 
 
