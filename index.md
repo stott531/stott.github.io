@@ -13,7 +13,7 @@
 
 ---
 [Mandelbrot Set Generator](/pages/mandelbrot.md)
-<img src="images/mandelbrot_demo"/>
+<img src="images/mandelbrot_demo.png?raw=true"/>
 
 ---
 
