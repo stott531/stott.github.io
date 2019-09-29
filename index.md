@@ -1,4 +1,5 @@
-<style>
+@import "{{ site.theme }}";
+ <style>
     .page_header {
         color : #ffff;
         background-color: #4d4d4d;
