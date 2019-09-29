@@ -1,29 +1,20 @@
 
- <style>
-    ---
-    ---
-    @import "{{ site.theme }}";
-    .gr__stott531_github_io {
-        background-color: #4d4d4d;
-    }
-</style>
-
 ## Personal Projects 
 
 ---
 
-### [BEETS](/pages/BEETS.md)
-### Basic End to End Testing Software
+### [BEETS](https://github.com/stott531/BEETS)
+Basic End to End Testing Software
 <img src="images/BEETS_demo.png?raw=true"/>
 
 ---
-### [Hexagonal Minesweeper](/pages/hex_minesweeper)
-### A fun twist on a timeless classic
+### [Hexagonal Minesweeper](https://github.com/NoahRoseLedesma/thick-turtle)
+A fun twist on a timeless classic
 <img src="images/hex_minesweeper_demo.png?raw=true"/>
 
 ---
-### [Mandelbrot Set Generator](/pages/mandelbrot.md)
-### An exploration of computer graphics
+### [Mandelbrot Set Generator](https://github.com/stott531/MandelbrotGenerator)
+An exploration of computer graphics
 <img src="images/mandelbrot_demo.png?raw=true"/>
 
 ---
