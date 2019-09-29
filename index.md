@@ -2,10 +2,11 @@
  <style>
     @import "{{ site.theme }}";
     .page_header {
-        color : #ffff;
+        color : #4d4d4d;
         background-color: #4d4d4d;
     }
 </style>
+
 ## Personal Projects 
 
 ---
