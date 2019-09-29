@@ -1,4 +1,9 @@
-<body bgcolor="#4d4d4d">
+<style>
+    .page_header {
+        color : #ffff;
+        background-color: #4d4d4d;
+    }
+</style>
 ## Personal Projects 
 
 ---
@@ -66,7 +71,6 @@
        </div>
     </div>
 </div>
-</body>
 
 
 
