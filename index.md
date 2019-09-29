@@ -1,12 +1,6 @@
 
- <style>
-    @import "{{ site.theme }}";
-    .page_header {
-        color : #4d4d4d;
-        background-color: #4d4d4d;
-    }
-</style>
 
+<body style="background=color: #4d4d4d;">
 ## Personal Projects 
 
 ---
@@ -80,4 +74,4 @@
 
 
 ---
-
+</body>
