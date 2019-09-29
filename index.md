@@ -1,6 +1,13 @@
 
+ <style>
+    ---
+    ---
+    @import "{{ site.theme }}";
+    .gr__stott531_github_io {
+        background-color: #4d4d4d;
+    }
+</style>
 
-<body style="background=color: #4d4d4d;">
 ## Personal Projects 
 
 ---
@@ -74,4 +81,4 @@
 
 
 ---
-</body>
+
