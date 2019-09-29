@@ -8,8 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Computer science is more than just an academic pursuit; 
   it is something for which I genuinely yearn for more knowledge.
   <br><br>
-  [Click me](mailto:stott@ucdavis.edu){: .btn}
-  <button onclick="window.location.href = 'mailto:stott@ucdavis.edu';">Email Me</button>
-  
+  <a class="button" href="mailto:email@email.de">Email Me</a>
 
 google_analytics: UA-148879698-1 # your Google Analytics tracking ID here
