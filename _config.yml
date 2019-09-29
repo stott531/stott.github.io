@@ -3,10 +3,12 @@ theme: jekyll-theme-minimal
 title: Stephen Ott # your name (or website title) here
 logo: "images/PersonalPhoto2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Undergraduate Software Developer 
+  Undergraduate Software Engineer
   <br><br>
-  I enjoy spending long periods of time in a dark room, drinking copious amounts of caffeine. It's like alcoholism, but less productive 
-
+  Computer science is more than just an academic pursuit; 
+  it is something for which I genuinely yearn for more knowledge.
+  
+  [Email Me](mailto:stott@ucdavis.edu){: .btn}
   
 
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-148879698-1 # your Google Analytics tracking ID here
