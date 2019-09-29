@@ -1,4 +1,8 @@
+<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+
 ## Personal Projects 
+
+---
 
 ### [BEETS](/pages/BEETS.md)
 ### Basic End to End Testing Software
@@ -18,12 +22,8 @@
 
 ## Skills
 
-- ### C++
-    - 
-
----
-
-
+<i class="devicon-c-plain colored"></i>
 
 
 ---
+
