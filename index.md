@@ -22,9 +22,9 @@
 
 ## Skills
 
-
-<i class="devicon-c-plain colored"; style=font-size:1000%;></i>
-
+<font size="7">
+    <i class="devicon-c-plain colored"></i>
+</font>
 
 ---
 
