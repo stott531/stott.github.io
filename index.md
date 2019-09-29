@@ -1,29 +1,25 @@
-## Portfolio
+## Personal Projects 
 
----
-
-### Personal Projects 
-
-[BEETS](/pages/BEETS.md)
+### [BEETS](/pages/BEETS.md)
+### Basic End to End Testing Software
 <img src="images/BEETS_demo.png?raw=true"/>
 
 ---
-[Hexagonal Minesweeper](/pages/hex_minesweeper)
+### [Hexagonal Minesweeper](/pages/hex_minesweeper)
+### A fun twist on a timeless classic
 <img src="images/hex_minesweeper_demo.png?raw=true"/>
 
 ---
-[Mandelbrot Set Generator](/pages/mandelbrot.md)
+### [Mandelbrot Set Generator](/pages/mandelbrot.md)
+### An exploration of computer graphics
 <img src="images/mandelbrot_demo.png?raw=true"/>
 
 ---
 
-### Skills
+## Skills
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- ### C++
+    - 
 
 ---
 
@@ -31,5 +27,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
