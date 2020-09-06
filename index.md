@@ -2,6 +2,10 @@
 ## Personal Projects 
 
 ---
+### [Discord Bot for Office Hours](https://github.com/ECS-OH-Bot/OH-Bot)
+A system to help manage office hours for university classes during the COVID-19 pandemic
+<img src="images/discord_bot.png"/>
+
 
 ### [BEETS](https://github.com/stott531/BEETS)
 Basic End to End Testing Software
