@@ -2,6 +2,12 @@
 ## Personal Projects 
 
 ---
+### [The Missing CS Quarter at UC Davis](https://missing.cs.ucdavis.edu/)
+Course I helped develop to teach UC Davis students skills such as terminal usage,
+debugging, testing, and scripting
+<img src="images/png/missing_cs_quarter.png"/>
+
+
 ### [Discord Bot for Office Hours](https://github.com/ECS-OH-Bot/OH-Bot)
 A system to help manage office hours for university classes during the COVID-19 pandemic
 <img src="images/png/discord_bot.png"/>
